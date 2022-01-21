@@ -1,6 +1,6 @@
 ## Hey 👋, I'm [Joe Altig](https://joealtig.ml)
 
-<img align="right" height="60" width="60" alt="" src="https://jakehamblin.com/images/logow.png" />
+<img align="right" height="60" width="60" alt="" src="https://media.discordapp.net/attachments/926620745524723803/934001914843131904/hobo2.png" />
 
 [![Website Badge](https://img.shields.io/badge/Website-3b5998?style=flat-square&logo=google-chrome&logoColor=white)](https://joealtig.ml)
 
